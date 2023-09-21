@@ -4,9 +4,7 @@
 
 - [x] flyingBird签到
 
-## aliyundriveDailyCheck
-
-参考文件,来源[https://github.com/mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)
+> aliyundriveDailyCheck.js为参考文件,来源[https://github.com/mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)
 
 ## flyingBirdDailyCheck
 
