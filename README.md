@@ -1,10 +1,12 @@
+# dailyCheck
+
 >自动青龙签到脚本
+
+> aliyundriveDailyCheck.js为参考文件,来源[https://github.com/mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)
 
 ## List
 
-- [x] flyingBird签到
-
-> aliyundriveDailyCheck.js为参考文件,来源[https://github.com/mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)
+- [x] [flyingBird签到](#1.2)
 
 ## flyingBirdDailyCheck
 
