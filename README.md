@@ -6,7 +6,7 @@
 
 ## List
 
-- [x] [flyingBird签到](#1.2)
+- [x] [flyingBird签到](#flyingbirddailycheck)
 
 ## flyingBirdDailyCheck
 
