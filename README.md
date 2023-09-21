@@ -8,7 +8,7 @@
 
 - [x] [flyingBird签到](#flyingbirddailycheck)
 
-## flyingBirdDailyCheck
+## flyingBirdDailyCheck.js
 
 1. 脚本管理中新增脚本文件`flyingBirdAutoSign.js`
 2. 环境变量中添加名称为`flyingBirdCookies`值为cookies的变量
